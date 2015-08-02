@@ -4,6 +4,7 @@
 var app = angular.module('app',[]);
 
 app.controller('appController',function($scope){
+    $scope.data = "";
 
 });
 
@@ -34,23 +35,22 @@ app.directive('uiDate',function(){
                         date = date.substring(0, 7) + "/" + date.substring(7, 9);
                     }
                 }
-/*
-                if(lang == null || lang == undefined){
+
+                if(lang === null || lang === undefined){
                     if (date.length > 2) {
                         date = date.substring(0, 2) + "/" + date.substring(2);
                     }
                     if (date.length > 5) {
                         date = date.substring(0, 5) + "/" + date.substring(5, 9);
                     }
-                }*/
-
-
+                }
 
                 return date;
             };
             element.bind("keyup", function () {
                 ctrl.$setViewValue(_formatDate(ctrl.$viewValue, scope.language));
                 ctrl.$render();
+
             });
         }
     };
