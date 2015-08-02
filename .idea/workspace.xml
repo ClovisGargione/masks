@@ -2,7 +2,767 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b17abeee-ab51-4867-b092-db69e8c6757a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/images/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/images/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/images/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/images/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/images/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/images/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/images/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/images/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/images/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/images/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/images/Battlefield_4_Icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/images/Battlefield_4_Icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/images/BizSparkTile.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/images/Blank_Folder.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/images/Calendar-Next.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/images/Checkmark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/images/Crysis-2-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/images/Crysis-2-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/images/D3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/images/Folder-Rename.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/images/MSFT_logo_png.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/images/Metro-UI-CSS.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/images/Metro_author_100x20.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/images/Metro_member_100x20.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/images/Metro_moster_100x20.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/images/Metro_unior_100x20.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/images/Notebook-Save.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/images/Office365.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/fonts/OpenSans-Bold.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/fonts/OpenSans-Bold.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/fonts/OpenSans-Light.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/fonts/OpenSans-Light.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/fonts/OpenSans.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/fonts/OpenSans.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/images/Open_Source_Iniative.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/fonts/PTSerif-Caption.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/fonts/PTSerif-Caption.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/images/Print-Quick.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/js/metro/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/js/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/images/Window-Refresh.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/images/Windows-8-Logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/images/WorldofTanks.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/images/access.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/images/access.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/images/flags/ak.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/images/flags/al.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/bower_components/angular/angular.min.js.gzip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/images/flags/ar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/images/author.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/images/flags/az.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/images/b1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/images/bd-rom.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/images/beer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/images/bizspark_b.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/images/bizspark_b.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/images/bizspark_b_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/images/bizspark_b_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/images/flags/ca.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/images/clouds.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/images/clouds2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/images/clouds2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/images/flags/co.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/images/css-logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/images/css-logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/images/flags/ct.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/images/flags/de.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/images/disk-sys.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/images/download-32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/images/excel.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/images/excel.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/images/excel2013icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/images/flags/fl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/images/fluent-menu.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/images/folder-documents.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/images/folder-downloads.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/images/folder-images.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/images/folder-music.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/images/folder-videos.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/images/folder_with_file.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/images/fork-32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/images/flags/ga.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/images/grid2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/images/grid2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/images/group.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/images/halo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/images/hard-drive.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/images/flags/hi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/images/home.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/images/flags/ia.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/images/icon-minus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/images/icon-plus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/fonts/iconFont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/fonts/iconFont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/fonts/iconFont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/fonts/iconFont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/fonts/iconFont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/fonts/iconFont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/images/flags/id.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/images/flags/il.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/images/flags/in.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/images/jek_vorobey.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/images/jek_vorobey.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/images/jeki_chan.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/images/jeki_chan.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/images/jetbrains.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/images/jetbrains.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/images/jolie.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/images/jolie.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/images/flags/ks.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/images/flags/ky.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/images/flags/la.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/images/live1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/images/live1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/images/live2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/images/live2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/images/location.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/images/flags/ma.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/images/flags/md.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/images/me.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/images/me.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/images/flags/me.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/images/me_150.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/images/meter-210.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/fonts/metro.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/fonts/metro.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/fonts/metro.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/fonts/metro.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/fonts/metro.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/fonts/metro.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/fonts/metroSysIcons.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/fonts/metroSysIcons.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/fonts/metroSysIcons.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/fonts/metroSysIcons.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/images/flags/mi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/images/flags/mn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/images/flags/mo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/images/flags/ms.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/images/flags/mt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/images/myface.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/images/myface.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/images/flags/nc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/images/flags/nd.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/images/flags/ne.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/images/flags/nh.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/images/flags/nj.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/images/flags/nm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/images/nuget-logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/images/flags/nv.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/images/flags/ny.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/images/obama.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/images/obama.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/images/flags/oh.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/images/flags/ok.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/images/onenote.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/images/onenote.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/images/onenote2013icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/images/flags/or.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/images/org-01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/images/org-01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/images/outlook.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/images/outlook.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/images/flags/pa.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/images/photo_album.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/images/phpstorm_7_eap.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/images/phpstorm_7_eap.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/images/phpstorm_tn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/images/phpstorm_tn_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/images/power.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/images/powerpoint.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/images/powerpoint.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/images/flags/ri.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/images/round.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/images/flags/sc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/images/flags/sd.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/images/shvarcenegger.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/images/shvarcenegger.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/images/spface.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/images/spface.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/images/spface2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/images/tiles-bg-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/images/tiles-bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/images/flags/tn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/images/toggle-minus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/images/flags/tx.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/images/user.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/images/flags/ut.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/images/flags/va.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/images/vin_d.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/images/flags/vt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/images/flags/wa.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/images/whats-new.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/images/flags/wi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/images/windows_8_default_13_wallpaper.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/images/windows_modern_logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/images/wn8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/images/word.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/images/word.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/images/word2013icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/images/flags/wv.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/images/flags/wy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/images/x-box.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/images/x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/images/x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/bower_components/angular/.bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/bower_components/jquery/.bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/.gitattributes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/bower_components/jquery/src/data/Data.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Gruntfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/bower_components/jquery/MIT-LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/PULL-REQUESTS.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/bower_components/angular/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/TODO.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/bower_components/jquery/src/effects/Tween.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/bower_components/jquery/src/manipulation/_evalUrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/bower_components/jquery/src/data/accepts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/bower_components/jquery/src/core/access.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/accordion.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/accordion.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/js/widgets/accordion.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/less/accordion.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/less/accordion.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/bower_components/jquery/src/css/addGetHookIf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/bower_components/jquery/src/ajax.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/bower_components/jquery/src/event/ajax.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/bower_components/jquery/src/event/alias.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/bower_components/jquery/src/exports/amd.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/bower_components/angular/angular-csp.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/bower_components/angular/angular.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/bower_components/angular/angular.min.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/bower_components/angular/angular.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/bower_components/jquery/src/effects/animatedSelector.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/less/animations.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/appbar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/js/widgets/appbar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/less/appbar.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/bower_components/jquery/src/var/arr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/bower_components/jquery/src/attributes/attr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/bower_components/jquery/src/attributes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/balloon.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/less/balloon.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/bower_components/angular/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/bower_components/jquery/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/branch.cmd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/less/breadcrumbs.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/less/breadcrumbs.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/button-groups.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/js/widgets/button-groups.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/buttons.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/buttons.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/less/buttons.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/less/buttons.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/calendar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/calendar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/js/widgets/calendar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/less/calendar.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/less/calendar.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/bower_components/jquery/src/callbacks.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/carousel.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/carousel.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/js/widgets/carousel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/less/carousel.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/less/carousel.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/less/charms.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/bower_components/jquery/src/var/class2type.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/bower_components/jquery/src/attributes/classes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/colors.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/less/colors.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/less/colors.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/commit.cmd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/compile.cmd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/compress/compressor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/bower_components/jquery/src/var/concat.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/bower_components/jquery/src/core.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/countdown.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/js/widgets/countdown.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/less/countdown.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/less/countdown.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/bower_components/jquery/src/css.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/bower_components/jquery/src/css/var/cssExpand.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/bower_components/jquery/src/css/curCSS.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/bower_components/jquery/src/data.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/data/dataTables-objects.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/dataTables.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/dataTables.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/less/dataTables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/bower_components/jquery/src/data/var/data_priv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/bower_components/jquery/src/data/var/data_user.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/js/widgets/datatable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/less/datatable.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/datepicker.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/datepicker.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/js/widgets/datepicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/bower_components/jquery/src/css/defaultDisplay.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/bower_components/jquery/src/deferred.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/bower_components/jquery/src/queue/delay.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/bower_components/jquery/src/deprecated.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/dialog.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/dialog.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/js/widgets/dialog.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/less/dialog.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/bower_components/jquery/src/dimensions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/css/docs.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/css/docs.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/js/docs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/js/docs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/css/less/docs.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/dropdown.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/js/widgets/dropdown.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/easing.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/js/utils/easing.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/bower_components/jquery/src/effects.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/bower_components/jquery/src/event.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/examples.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/bower_components/jquery/src/traversing/findFilter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/js/widgets/fit-image.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/fluent-menu.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/less/fluent-menu.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/font.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/footer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/footer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/forms.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/less/forms.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/less/funcs.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/js/ga.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/bower_components/jquery/src/css/var/getStyles.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/js/github.info.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/global.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/js/global.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/bower_components/jquery/src/exports/global.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/grid.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/grid.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/less/grid.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/less/grid.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/bower_components/jquery/src/var/hasOwn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/header.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/header.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/helpers.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/bower_components/jquery/src/css/hiddenVisibleSelectors.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/hint.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/js/widgets/hint.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/less/hint.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/hints.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/less/hints.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/js/hitua.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/js/holder/holder.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/less/iconFont-content.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/css/iconFont.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/fonts/iconFont.dev.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/fonts/iconFont.dev.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/fonts/iconFont.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/fonts/iconFont.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/less/iconFont.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/min/iconFont.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/fonts/iconFont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/fonts/iconFont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/icons.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/less/icons.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/images.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/images.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/less/images.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/less/images.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/bower_components/angular/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/bower_components/jquery/src/var/indexOf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/bower_components/jquery/src/core/init.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/inputs.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/js/widgets/inputs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/less/inputs.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/bower_components/jquery/src/intro.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/bower_components/jquery/src/css/var/isHidden.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/js/jquery-2.1.3.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/js/jquery/jquery.dataTables.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/js/jquery.dataTables.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/js/jquery/jquery.easing.1.3.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/bower_components/jquery/dist/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/bower_components/jquery/src/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/js/jquery/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/bower_components/jquery/dist/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/bower_components/jquery/dist/jquery.min.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/js/jquery/jquery.mousewheel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/js/jquery/jquery.widget.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/bower_components/jquery/src/ajax/jsonp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/keypad.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/js/widgets/keypad.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/less/keypad.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/js/prettify/lang-apollo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/js/prettify/lang-apollo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/js/prettify/lang-basic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/js/prettify/lang-basic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/js/prettify/lang-clj.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/js/prettify/lang-clj.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/js/prettify/lang-css.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/js/prettify/lang-css.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/js/prettify/lang-dart.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/js/prettify/lang-dart.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/js/prettify/lang-erlang.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/js/prettify/lang-erlang.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/js/prettify/lang-go.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/js/prettify/lang-go.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/js/prettify/lang-hs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/js/prettify/lang-hs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/js/prettify/lang-lisp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/js/prettify/lang-lisp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/js/prettify/lang-llvm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/js/prettify/lang-llvm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/js/prettify/lang-lua.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/js/prettify/lang-lua.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/js/prettify/lang-matlab.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/js/prettify/lang-matlab.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/js/prettify/lang-ml.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/js/prettify/lang-ml.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/js/prettify/lang-mumps.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/js/prettify/lang-mumps.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/js/prettify/lang-n.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/js/prettify/lang-n.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/js/prettify/lang-pascal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/js/prettify/lang-pascal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/js/prettify/lang-proto.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/js/prettify/lang-proto.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/js/prettify/lang-r.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/js/prettify/lang-r.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/js/prettify/lang-rd.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/js/prettify/lang-rd.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/js/prettify/lang-scala.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/js/prettify/lang-scala.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/js/prettify/lang-sql.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/js/prettify/lang-sql.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/js/prettify/lang-tcl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/js/prettify/lang-tcl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/js/prettify/lang-tex.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/js/prettify/lang-tex.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/js/prettify/lang-vb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/js/prettify/lang-vb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/js/prettify/lang-vhdl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/js/prettify/lang-vhdl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/js/prettify/lang-wiki.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/js/prettify/lang-wiki.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/js/prettify/lang-xq.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/js/prettify/lang-xq.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/js/prettify/lang-yaml.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/js/prettify/lang-yaml.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/less/layout.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/less/layout.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/layouts.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/license.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/lists.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/less/lists.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/less/lists.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/listview.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/js/widgets/listview.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/less/listview.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/js/load-metro.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/bower_components/jquery/src/ajax/load.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/templates/login.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/bower_components/jquery/src/manipulation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/less/media.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/menu.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/less/menu.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/menus.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/less/menus.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/merge.cmd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/js/metro/metro-accordion.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/js/metro-accordion.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/css/metro-bootstrap-responsive.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/css/metro-bootstrap-responsive.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/less/metro-bootstrap-responsive.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/min/metro-bootstrap-responsive.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/css/metro-bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/css/metro-bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/less/metro-bootstrap.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/min/metro-bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/js/metro/metro-button-set.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/js/metro-button-set.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/js/metro/metro-calendar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/js/metro-calendar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/js/metro/metro-carousel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/js/metro-carousel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/js/metro/metro-core.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/js/metro-core.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/js/metro/metro-countdown.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/js/metro-countdown.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/js/metro/metro-date-format.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/js/metro-date-format.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/js/metro/metro-datepicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/js/metro-datepicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/js/metro/metro-dialog.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/js/metro-dialog.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/js/metro/metro-drag-tile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/js/metro-drag-tile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/js/metro/metro-dropdown.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/js/metro-dropdown.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/js/metro/metro-fluentmenu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/js/metro-fluentmenu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/js/metro/metro-global.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/js/metro-global.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/js/metro/metro-hint.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/js/metro-hint.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/less/metro-icons-animation.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/less/metro-icons-content.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/less/metro-icons-mixins.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/build/css/metro-icons.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/css/metro-icons.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/less/metro-icons.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/build/css/metro-icons.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/js/metro/metro-initiator.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/js/metro-initiator.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/js/metro/metro-input-control.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/js/metro-input-control.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/js/metro/metro-listview.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/js/metro-listview.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/js/metro/metro-live-tile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/js/metro-live-tile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/js/metro/metro-loader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/js/metro-loader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/js/metro/metro-locale.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/js/metro-locale.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/js/metro/metro-notify.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/js/metro-notify.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/js/metro/metro-panel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/js/metro-panel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/js/metro/metro-plugin-template.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/js/metro-plugin-template.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/js/metro/metro-popover.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/js/metro-popover.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/js/metro/metro-progressbar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/js/metro-progressbar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/js/metro/metro-pull.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/js/metro-pull.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/js/metro/metro-rating.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/js/metro-rating.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/js/metro/metro-scroll.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/js/metro-scroll.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/js/metro/metro-slider.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/js/metro-slider.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/js/metro/metro-stepper.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/js/metro-stepper.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/js/metro/metro-streamer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/js/metro-streamer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/js/metro/metro-tab-control.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/js/metro-tab-control.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/js/metro/metro-table.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/js/metro-table.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/js/metro/metro-tile-transform.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/js/metro-tile-transform.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/js/metro/metro-times.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/js/metro-times.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/js/metro/metro-touch-handler.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/js/metro-touch-handler.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/js/metro/metro-treeview.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/js/metro-treeview.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/metro-ui-css-2.0.32.nuspec" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/js/metro/metro-wizard.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/js/metro-wizard.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/build/css/metro.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/css/metro.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/build/js/metro.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/js/metro.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/less/metro.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/build/css/metro.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/js/metro.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/min/metro.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/build/js/metro.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/metro.nuspec" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/fonts/metro.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/fonts/metro.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/fonts/metroSysIcons.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/fonts/metroSysIcons.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/less/misc.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/js/utils/mousewheel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/navbar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/less/navigation-bar.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/templates/news-portal.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/bower_components/jquery/src/ajax/var/nonce.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/less/notice.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/notices.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/notify.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/notify.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/js/widgets/notify.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/less/notify.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/less/notify.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/bower_components/jquery/src/offset.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/bower_components/jquery/src/outro.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/bower_components/angular/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/page-template.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/less/pagination.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/less/pagination.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/js/widgets/panel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/panels.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/panels.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/less/panels.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/less/panels.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/bower_components/jquery/src/core/parseHTML.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/bower_components/jquery/src/ajax/parseJSON.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/bower_components/jquery/src/ajax/parseXML.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/js/widgets/plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/bower_components/jquery/src/var/pnum.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/popovers.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/js/widgets/popovers.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/less/popovers.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/js/utils/pre-code.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/preloaders.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/js/widgets/preloaders.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/less/preloaders.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/presenter.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/js/widgets/presenter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/less/presenter.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/js/prettify/prettify.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/js/prettify/prettify.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/js/prettify/prettify.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/js/prettify/prettify.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/progress-bar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/less/progress-bar.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/progressbar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/js/widgets/progressbar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/less/progressbar.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/bower_components/jquery/src/attributes/prop.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/push.cmd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/bower_components/jquery/src/var/push.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/bower_components/jquery/src/queue.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/rating.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/rating.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/js/widgets/rating.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/less/rating.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/less/rating.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/bower_components/jquery/src/manipulation/var/rcheckableType.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/bower_components/jquery/src/core/ready.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/requirements.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/js/requirements.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/less/reset.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/less/reset.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/responsive.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/bower_components/jquery/src/css/var/rmargin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/bower_components/jquery/src/traversing/var/rneedsContext.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/bower_components/jquery/src/var/rnotwhite.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/bower_components/jquery/src/css/var/rnumnonpx.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/bower_components/jquery/src/ajax/var/rquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/bower_components/jquery/src/core/var/rsingleTag.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/js/prettify/run_prettify.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/js/prettify/run_prettify.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/bower_components/jquery/src/ajax/script.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/scroll.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/less/scroll.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/js/widgets/select.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/select2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/less/select2.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/js/select2.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/fonts/selection.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/bower_components/jquery/src/selector-native.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/bower_components/jquery/src/selector-sizzle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/bower_components/jquery/src/selector.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/bower_components/jquery/src/serialize.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/sidebar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/sidebar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/less/sidebar.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/less/sidebar.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/bower_components/jquery/src/sizzle/dist/sizzle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/bower_components/jquery/src/sizzle/dist/sizzle.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/bower_components/jquery/src/sizzle/dist/sizzle.min.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/bower_components/jquery/src/var/slice.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/slider.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/js/widgets/slider.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/less/slider.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/less/slider.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/sliders.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/start-screen.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/templates/start-screen.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/js/start-screen.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/stepper.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/stepper.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/js/widgets/stepper.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/less/stepper.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/less/stepper.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/streamer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/streamer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/js/widgets/streamer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/less/streamer.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/less/streamer.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/bower_components/jquery/src/var/strundefined.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/bower_components/jquery/src/attributes/support.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/bower_components/jquery/src/css/support.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/bower_components/jquery/src/event/support.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/bower_components/jquery/src/manipulation/support.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/bower_components/jquery/src/var/support.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/bower_components/jquery/src/css/swap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/switch.cmd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/tab-control.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/less/tab-control.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/tabcontrol.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/js/widgets/tabcontrol.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/less/tabcontrol.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/tables.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/tables.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/less/tables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/less/tables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/template-any.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/template-news-portal.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/template.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/test-page.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/test.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/js/widgets/tile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/tiles.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/tiles.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/less/tiles.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/less/tiles.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/times.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/bower_components/jquery/src/var/toString.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/less/toolbars.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/js/utils/touch-handler.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/less/transform.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/less/transform.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/bower_components/jquery/src/traversing.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/treeview.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/treeview.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/js/widgets/treeview.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/less/treeview.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/less/treeview.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/typography.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/typography.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/less/typography.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/less/typography.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/less/utils.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/less/utils.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/bower_components/jquery/src/attributes/val.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/validator.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/js/widgets/validator.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/less/variables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/less/variables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/js/widget.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/window.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/js/widgets/window.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/less/window.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/windows.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/less/windows.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/docs/wizard.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/wizard.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/js/widgets/wizard.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/Metro-UI-CSS-master/less/wizard.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/less/wizard.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/docs/wizard2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/js/widgets/wizard2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Metro-UI-CSS-master_v3/less/wizard2.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/bower_components/jquery/src/wrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/bower_components/jquery/src/ajax/xhr.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="masks.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -23,20 +783,47 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="-11.769231">
+              <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/js/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.36408567">
+              <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+              <folding>
+                <element signature="e#0#46#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/js/app.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" />
   <component name="JsGulpfileManager">
@@ -94,6 +881,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="masks" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="masks" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -102,8 +903,17 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="recentsLimit" value="5" />
   </component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace_git\masks" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.index.html">
+    <configuration default="false" name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/masks/index.html">
+      <method />
+    </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <method />
     </configuration>
@@ -136,6 +946,14 @@
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
       <method />
     </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="TaskManager">
@@ -156,18 +974,18 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -178,11 +996,29 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/libs/bower_components/jquery/src/css/var/rmargin.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.08401977">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="-11.769231">
+          <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.36408567">
+          <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#46#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
