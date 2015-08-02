@@ -4,11 +4,11 @@
 var app = angular.module('app',[]);
 
 app.controller('appController',function($scope){
-    $scope.data = "";
+    $scope.data = new Date(1438484400000);
 
 });
 
-app.directive('uiDate',function(){
+app.directive('uiDate',function($filter){
     return{
         restrict:"A",
         scope:{
@@ -50,6 +50,23 @@ app.directive('uiDate',function(){
             element.bind("keyup", function () {
                 ctrl.$setViewValue(_formatDate(ctrl.$viewValue, scope.language));
                 ctrl.$render();
+
+            });
+
+            ctrl.$parsers.push(function(value){
+                if(value.length === 10){
+                    var dateArray = value.split("/");
+                    return new Date(dateArray[2], dateArray[1]-1, dateArray[0]).getTime();
+                }
+            });
+
+            ctrl.$formatters.push(function(value){
+                if(scope.language === 'pt'){
+                    return $filter("date")(value, "dd/MM/yyyy");
+                }
+                if(scope.language === 'en'){
+                    return $filter("date")(value, "yyyy/MM/dd");
+                }
 
             });
         }
